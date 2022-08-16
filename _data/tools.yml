@@ -1,0 +1,11 @@
+- title: Microcontrollers (STM, ATmega)
+- title: Hardware Interfaces (SPI, I2C, UART, JTAG)
+- title: Development platforms such as Raspberry Pi, Arduino, Xilinx Development Boards (Arty A7, Nexys A7)
+- title: Linux
+- title: Wireless Communication Protocol LoRa
+- title: FPGA development (Xilinx, Lattice) with Verilog and Python Framework LiteX
+- title: Analogue circuit simulation, LTSpice
+- title: Git
+- title: Python Web Framework Flask
+- title: Non-Relational Database MongoDB
+- title: Matlab Simulink

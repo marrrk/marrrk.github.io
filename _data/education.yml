@@ -1,0 +1,29 @@
+- institution: University of Cape Town
+  image: /assets/images/uct_logo.png
+  location: Cape Town, South Africa
+  from: 2017
+  to: current
+  qualifications:
+    - title: MSc Eng Specialising in Electrical Engineering
+      period: 2021 - Present
+      notes: tester
+
+    - title: BSc Eng in Mechatronics Engineering
+      period: 2017 - 2020
+      notes: tester x2
+
+
+
+- institution: Legae Academy
+  image: /assets/images/legae.png
+  location: Gaborone, Botswana
+  from: 2011
+  to: 2016
+  qualifications:
+    - title:  Cambridge A Levels
+      period: 2015 - 2016
+      notes: aosianfo
+
+    - title: Cambridge International General Certificate of Education
+      period: 2011 - 2014
+      notes: whatever x2

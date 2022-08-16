@@ -1,0 +1,19 @@
+- name: Embedded Systems Design
+  percentage: 85
+  color: info
+
+- name: Digital Circuit Design
+  percentage: 85
+  color: secondary
+
+- name: PCB Design
+  percentage: 80
+  color: warning
+
+- name: Analogue Circuit Design
+  percentage: 75
+  color: success
+
+- name: Control Systems
+  percentage: 65
+  color: primary

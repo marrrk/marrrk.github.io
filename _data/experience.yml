@@ -1,0 +1,41 @@
+- title: Teaching Assistant & Tutor
+  company: University of Cape Town
+  location: Cape Town, South Africa
+  image: /assets/images/uct_logo.png
+  from: 2021
+  to: 2022
+  roles:
+    - title: Technical Assistant -  Electrical Engineering Design Principles
+      period: Feb 2022 - June 2022
+      description: Assisted in overseeing the main project of the course, a custom PCB. Was the main point of contact between students and lecturers.
+
+    - title: Teaching Assistant - Embedded Systems 2
+      period: July 2021 - Dec 2021
+      description: Oversaw the generation and running of practicals throughout the semester. Assisted lecturers in the administrave running of the course.
+
+    - title: Tutor - Embedded Systems 2 Tutor
+      period: Aug 2020 - Nov 2020
+      description: Assisted a group of 20 students in understanding course content in addition to providing aid in the completion of practicals.
+
+    - title: Tutor - Electroic Devices and Circuits
+      period: March 2020 - June 2020 &  Feb 2021 - June 2021
+      description: Attended laboratory sessions in which students explored key analogue electronic concepts and provided help in understanding them where necesssary.
+
+
+- title: Hardware Engineer Intern
+  company: Lumkani
+  location: Cape Town, South Africa
+  image: /assets/images/lumkani.png
+  from: November 2019
+  to: January 2020
+  roles:
+    - description: Wrote data analytical python scripts, debugged digital circuity and investigated development of a wireless module.
+
+- title: Workshop Intern
+  company: Litek Roof Trusses
+  location: Gaborone, Botswana
+  image: /assets/images/lrt2.jpg
+  from: November 2018
+  to: January 2019 
+  roles:
+    - description: test
